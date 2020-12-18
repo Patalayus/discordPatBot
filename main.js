@@ -4,7 +4,7 @@ const bot = new Client()
 
 const ping = require('minecraft-server-util');
 
-const token = 'Nzg5MjMzMTUzNDA2NjY0NzA1.X9vEpw.csKFf5UCMy0-yIk_c9Sh6kgGHKY'
+const token = 'TOKEN HERE'
 
 const PREFIX = '!'
 
